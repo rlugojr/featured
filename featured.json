@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Featured",
+        "icon": "star",
+        "books": [
+            "codegangsta/building-web-apps-with-go",
+            "amischol/javascript_challenges",
+            "anotheruiguy/sassintherealworld_book-i"
+        ]
+    }
+]
